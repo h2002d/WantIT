@@ -1,9 +1,0 @@
-C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp1.1\WebApi.deps.json
-C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp1.1\WebApi.runtimeconfig.json
-C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp1.1\WebApi.runtimeconfig.dev.json
-C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp1.1\WebApi.dll
-C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp1.1\WebApi.pdb
-C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.csprojResolveAssemblyReference.cache
-C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.AssemblyInfo.cs
-C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.dll
-C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.pdb
