@@ -7,3 +7,12 @@ C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\net
 C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.dll
 C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.pdb
 C:\Users\davit\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.csprojResolveAssemblyReference.cache
+D:\Projects\WantIT\WebApi\WebApi\bin\Debug\netcoreapp1.1\WebApi.deps.json
+D:\Projects\WantIT\WebApi\WebApi\bin\Debug\netcoreapp1.1\WebApi.runtimeconfig.json
+D:\Projects\WantIT\WebApi\WebApi\bin\Debug\netcoreapp1.1\WebApi.runtimeconfig.dev.json
+D:\Projects\WantIT\WebApi\WebApi\bin\Debug\netcoreapp1.1\WebApi.dll
+D:\Projects\WantIT\WebApi\WebApi\bin\Debug\netcoreapp1.1\WebApi.pdb
+D:\Projects\WantIT\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.csprojResolveAssemblyReference.cache
+D:\Projects\WantIT\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.AssemblyInfo.cs
+D:\Projects\WantIT\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.dll
+D:\Projects\WantIT\WebApi\WebApi\obj\Debug\netcoreapp1.1\WebApi.pdb

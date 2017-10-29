@@ -42,5 +42,38 @@ namespace WebApi.DAO
                 }
             }
         }
+        public static List<Post> getPostByUserId(int userId)
+        {
+            using (SqlConnection sqlConnection = new SqlConnection(connectionString))
+            {
+                using (SqlCommand command = new SqlCommand("sp_GetPostByUserId", sqlConnection))
+                {
+                    try
+                    {
+                        sqlConnection.Open();
+                        command.CommandType = CommandType.StoredProcedure;
+                        command.Parameters.AddWithValue("@UserId", userId);
+                        SqlDataReader rdr = command.ExecuteReader();
+                        List<Post> postList = new List<Post>();
+                        while(rdr.Read())
+                        {
+                            Post post = new Post();
+                            post.Id = Convert.ToInt32(rdr["Id"]);
+                            post.PostText = rdr["PostText"].ToString();
+                            post.Status= Convert.ToInt32(rdr["Status"]);
+                            post.CategoryId= Convert.ToInt32(rdr["CategoryId"]);
+                            post.CreateDate = Convert.ToDateTime(rdr["CreateDate"]);
+                            post.UserId= Convert.ToInt32(rdr["UserId"]);
+                            postList.Add(post);
+                        }
+                        return postList;
+                    }
+                    catch (Exception ex)
+                    {
+                        return null;
+                    }
+                }
+            }
+        }
     }
 }

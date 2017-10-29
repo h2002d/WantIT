@@ -19,5 +19,9 @@ namespace WebApi.Models
         {
             return PostDAO.savePost(this);
         }
+        public static List<Post> GetPostsByUserId(int userId)
+        {
+            return PostDAO.getPostByUserId(userId);
+        }
     }
 }

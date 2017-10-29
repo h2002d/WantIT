@@ -10403,10 +10403,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davit\\Documents\\Visual Studio 2017\\Projects\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\Projects\\WantIT\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\davit\\Documents\\Visual Studio 2017\\Projects\\WebApi\\WebApi\\WebApi.csproj",
-      "outputPath": "C:\\Users\\davit\\Documents\\Visual Studio 2017\\Projects\\WebApi\\WebApi\\obj\\",
+      "projectPath": "D:\\Projects\\WantIT\\WebApi\\WebApi\\WebApi.csproj",
+      "outputPath": "D:\\Projects\\WantIT\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
